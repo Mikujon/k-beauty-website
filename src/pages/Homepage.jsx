@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
-import Carousel from '../components/ui/Carousel';
+import Carousel from '../components/ui/carousel';
 import ProductCard from '../components/product/ProductCard';
 import { mockProducts, mockBlogPosts, mockTestimonials, mockInstagramPosts } from '../utils/mockData';
 
